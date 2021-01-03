@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-krpano-examples/static/css/main.c984ca37.chunk.css",
-    "main.js": "/react-krpano-examples/static/js/main.3860fb65.chunk.js",
-    "main.js.map": "/react-krpano-examples/static/js/main.3860fb65.chunk.js.map",
+    "main.js": "/react-krpano-examples/static/js/main.2e68b570.chunk.js",
+    "main.js.map": "/react-krpano-examples/static/js/main.2e68b570.chunk.js.map",
     "runtime-main.js": "/react-krpano-examples/static/js/runtime-main.2bf2f21c.js",
     "runtime-main.js.map": "/react-krpano-examples/static/js/runtime-main.2bf2f21c.js.map",
     "static/js/2.25b0ae74.chunk.js": "/react-krpano-examples/static/js/2.25b0ae74.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2bf2f21c.js",
     "static/js/2.25b0ae74.chunk.js",
     "static/css/main.c984ca37.chunk.css",
-    "static/js/main.3860fb65.chunk.js"
+    "static/js/main.2e68b570.chunk.js"
   ]
 }
