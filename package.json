@@ -2,7 +2,7 @@
   "name": "react-krpano-examples",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/0xLLLLH/react-krpano-examples",
+  "homepage": "https://0xllllh.github.io/react-krpano-examples",
   "dependencies": {
     "@0xllllh/react-krpano": "^0.1.2",
     "@testing-library/jest-dom": "^5.11.4",
