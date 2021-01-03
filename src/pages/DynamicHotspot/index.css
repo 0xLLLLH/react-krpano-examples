@@ -1,0 +1,30 @@
+.page-dynamic-hotspot {
+  position: relative;
+}
+
+.action-bar {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  line-height: 60px;
+}
+
+.action-button {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+  line-height: 52px;
+  vertical-align: middle;
+  color: #fff;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.github-corner svg {
+  color: #fff;
+  fill: var(--theme-color, #42b983);
+  height: 80px;
+  width: 80px;
+}

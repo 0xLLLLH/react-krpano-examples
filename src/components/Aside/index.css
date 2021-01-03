@@ -1,0 +1,74 @@
+:root {
+  --aside-width: 300px;
+}
+
+.app-aside {
+  border-right: 1px solid #eee;
+  color: #364149;
+  width: var(--aside-width, 300px);
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.app-aside.collapsed {
+  border-right: none;
+  width: 0;
+}
+.app-aside.collapsed .aside-title,
+.app-aside.collapsed .aside-menu {
+  overflow: hidden;
+}
+
+.aside-title {
+  margin-bottom: 20px;
+  padding: 40px 0 0;
+  width: var(--aside-width, 300px);
+  font-size: 24px;
+}
+
+.aside-menu.flex-container {
+  justify-content: flex-start;
+  padding-left: 15px;
+  text-align: left;
+  width: var(--aside-width, 300px);
+}
+
+.aside-menu-item {
+  margin: 6px 0;
+}
+
+.aside-menu-item-link {
+  color: #505d6b;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 2em;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.aside-menu-item.active {
+  border-right: 2px solid var(--theme-color, #42b983);
+}
+
+.aside-menu-item.active .aside-menu-item-link {
+  color: var(--theme-color, #42b983);
+}
+
+.aside-toggle-bar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.aside-toggle-bar span {
+  background-color: var(--theme-color, #42b983);
+  display: block;
+  margin-bottom: 4px;
+  width: 16px;
+  height: 2px;
+}

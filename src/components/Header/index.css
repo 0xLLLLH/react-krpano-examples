@@ -1,0 +1,7 @@
+.app-header {
+  z-index: 10;
+  max-width: 100%;
+  min-height: 64px;
+  background: #fff;
+  box-shadow: 0 2px 8px #f0f1f2;
+}

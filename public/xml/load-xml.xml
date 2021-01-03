@@ -1,0 +1,15 @@
+<krpano onstart="loadscene(scene1);">
+    <scene name="scene1">
+        <image>
+            <cube url="https://qhyxpicoss.kujiale.com/r/2017/09/01/L3D221IS3QKUQUQBOGAPEK3P3XU888_7500x1250.jpg_%s" />
+        </image>
+        <hotspot
+            name="image_hotspot"
+            type="image"
+            url="https://0xllllh.github.io/krpano-examples/images/hotspot.png"
+            ath="0"
+            atv="0"
+        />
+    </scene>
+    <view hlookat="0" vlookat="0" fovtype="VFOV" fov="90" fovmin="30" fovmax="150" />
+</krpano>
