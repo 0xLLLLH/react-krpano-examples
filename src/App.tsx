@@ -6,6 +6,7 @@ import GithubCorner from "./components/GithubCorner";
 import Header from "./components/Header";
 import PageDynamicHotspot from "./pages/DynamicHotspot";
 import PageLoadXML from "./pages/LoadXML";
+import PageMultires from "./pages/Multires";
 import PageSwitchScene from "./pages/SwitchScene";
 
 function App() {
@@ -25,6 +26,9 @@ function App() {
             </Route>
             <Route path="/dynamic-hotspot">
               <PageDynamicHotspot />
+            </Route>
+            <Route path="/multires">
+              <PageMultires />
             </Route>
           </Switch>
         </FlexItem>

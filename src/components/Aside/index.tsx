@@ -36,6 +36,7 @@ const Aside: React.FC<{}> = () => {
         <VStack className="aside-menu">
           <MenuItem path="/load-xml">加载XML</MenuItem>
           <MenuItem path="/switch-scene">切换场景</MenuItem>
+          <MenuItem path="/multires">多分辨率</MenuItem>
           <MenuItem path="/dynamic-hotspot">动态热点</MenuItem>
         </VStack>
         <div className="aside-toggle-bar" onClick={onToggle}>

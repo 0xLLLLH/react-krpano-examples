@@ -45,6 +45,7 @@ const PageSwitchScene: React.FC<PageSwitchSceneProps> = () => {
       <div className="scene-list">
         {SceneConfig.map((sc) => (
           <div
+            key={sc.name}
             className={`scene-list-item ${
               sc.name === currentScene ? "active" : ""
             }`}
