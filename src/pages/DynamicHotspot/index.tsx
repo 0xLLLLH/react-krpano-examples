@@ -32,7 +32,7 @@ const PageDynamicHotspot: React.FC<PageDynamicHotspotProps> = () => {
   return (
     <div className="page-dynamic-hotspot">
       <Krpano
-        xml="/xml/dynamic-hotspot.xml"
+        xml={`${process.env.PUBLIC_URL}/xml/dynamic-hotspot.xml`}
         className="pano"
         currentScene="scene0"
         onReady={setRenderer}

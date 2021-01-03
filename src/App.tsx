@@ -1,4 +1,4 @@
-import { Switch, Route, Link } from "react-router-dom";
+import { Switch, Route, Link, Redirect } from "react-router-dom";
 import "./App.css";
 import Aside from "./components/Aside";
 import { FlexItem, HStack, VStack } from "./components/FlexContainer";
@@ -18,6 +18,9 @@ function App() {
         <Aside />
         <FlexItem>
           <Switch>
+            <Route path="/" exact>
+              <Redirect to="/load-xml" />
+            </Route>
             <Route path="/load-xml">
               <PageLoadXML />
             </Route>
