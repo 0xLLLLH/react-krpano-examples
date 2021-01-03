@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/0xLLLLH/react-krpano-examples/static/css/main.c984ca37.chunk.css",
+    "main.js": "/0xLLLLH/react-krpano-examples/static/js/main.f7032a6b.chunk.js",
+    "main.js.map": "/0xLLLLH/react-krpano-examples/static/js/main.f7032a6b.chunk.js.map",
+    "runtime-main.js": "/0xLLLLH/react-krpano-examples/static/js/runtime-main.7e1cb3ae.js",
+    "runtime-main.js.map": "/0xLLLLH/react-krpano-examples/static/js/runtime-main.7e1cb3ae.js.map",
+    "static/js/2.e39d73e6.chunk.js": "/0xLLLLH/react-krpano-examples/static/js/2.e39d73e6.chunk.js",
+    "static/js/2.e39d73e6.chunk.js.map": "/0xLLLLH/react-krpano-examples/static/js/2.e39d73e6.chunk.js.map",
+    "static/js/3.e699f521.chunk.js": "/0xLLLLH/react-krpano-examples/static/js/3.e699f521.chunk.js",
+    "static/js/3.e699f521.chunk.js.map": "/0xLLLLH/react-krpano-examples/static/js/3.e699f521.chunk.js.map",
+    "index.html": "/0xLLLLH/react-krpano-examples/index.html",
+    "static/css/main.c984ca37.chunk.css.map": "/0xLLLLH/react-krpano-examples/static/css/main.c984ca37.chunk.css.map",
+    "static/js/2.e39d73e6.chunk.js.LICENSE.txt": "/0xLLLLH/react-krpano-examples/static/js/2.e39d73e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e1cb3ae.js",
+    "static/js/2.e39d73e6.chunk.js",
+    "static/css/main.c984ca37.chunk.css",
+    "static/js/main.f7032a6b.chunk.js"
+  ]
+}

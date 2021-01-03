@@ -1,0 +1,5 @@
+<krpano >
+    <style name="hotspot-style"
+        url="https://0xllllh.github.io/krpano-examples/images/hotspot.png" />
+    <view hlookat="0" vlookat="0" fovtype="VFOV" fov="90" fovmin="30" fovmax="150" />
+</krpano>
