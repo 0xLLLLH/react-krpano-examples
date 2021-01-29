@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@0xllllh/react-krpano@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.npmjs.org/@0xllllh/react-krpano/-/react-krpano-0.1.2.tgz#bd567f056e21371d0f43d83bdd733023a7d3b061"
-  integrity sha512-WXAGkBMYZ6NddNXu3tD1x7RPsxbeiEaJfirMAu3z406P8S4wUQ56FnCT+hjVOQz+vfbBjMw5pt2A5uNvBwUhHQ==
+"@0xllllh/react-krpano@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.npmjs.org/@0xllllh/react-krpano/-/react-krpano-0.1.3.tgz#3242ed327b550031e1bf8e4398f5bdc58ec38bc6"
+  integrity sha512-Nmd7MGJluvk/+FrCr2mN+nSjNcw//Ns/G3q1/bJokaoV4Sk1f7+/PxHvnAeJtzpyeP9oujRZkNajfvwm46TmqQ==
   dependencies:
     "@babel/runtime" "^7.12.5"
     escape-html "^1.0.3"
