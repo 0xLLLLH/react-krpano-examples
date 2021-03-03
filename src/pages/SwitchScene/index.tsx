@@ -37,7 +37,7 @@ const PageSwitchScene: React.FC<PageSwitchSceneProps> = () => {
 
   return (
     <div className="page-switch-scene">
-      <Krpano className="pano" currentScene={currentScene}>
+      <Krpano className="pano" currentScene={currentScene} enableLogger={true}>
         {SceneConfig.map((sc) => (
           <Scene key={sc.name} {...sc} />
         ))}

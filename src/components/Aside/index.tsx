@@ -24,7 +24,7 @@ const MenuItem: React.FC<{
 };
 
 const Aside: React.FC<{}> = () => {
-  const [collapsed, setCollapsed] = React.useState(false);
+  const [collapsed, setCollapsed] = React.useState(window.innerWidth <= 750);
   const onToggle = React.useCallback(() => {
     setCollapsed(!collapsed);
   }, [collapsed, setCollapsed]);
