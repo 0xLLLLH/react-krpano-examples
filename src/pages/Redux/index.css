@@ -1,0 +1,44 @@
+.page-redux {
+  position: relative;
+}
+
+.action-bar {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  display: flex;
+  line-height: 60px;
+}
+
+.action-button {
+  flex-shrink: 0;
+  margin: 0 10px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+  line-height: 52px;
+  vertical-align: middle;
+  color: #fff;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.scene-list-item {
+  margin: 0 5px;
+  border: 2px solid transparent;
+  flex-shrink: 0;
+  width: 200px;
+  height: 150px;
+  cursor: pointer;
+}
+.scene-list-item.active {
+  border-color: coral;
+}
+.scene-list-item--add {
+  color: #fff;
+  font-size: 80px;
+  line-height: 120px;
+  vertical-align: middle;
+}

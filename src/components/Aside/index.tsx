@@ -40,6 +40,7 @@ const Aside: React.FC = () => {
                     <MenuItem path="/switch-scene">切换场景</MenuItem>
                     <MenuItem path="/multires">多分辨率</MenuItem>
                     <MenuItem path="/dynamic-hotspot">动态热点</MenuItem>
+                    <MenuItem path="/redux">Redux</MenuItem>
                 </VStack>
                 <div className="aside-toggle-bar" onClick={onToggle}>
                     <span></span>

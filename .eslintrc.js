@@ -1,6 +1,6 @@
 module.exports = {
     parser: '@typescript-eslint/parser', // 指定parser
-    plugins: ['@typescript-eslint'], // 启用插件
+    plugins: ['react-hooks'], // 启用插件
     extends: [
         'plugin:react/recommended', // 使用react的推荐规则
         'plugin:@typescript-eslint/recommended', // 使用推荐的规则，来自@typescript-eslint/eslint-plugin
@@ -8,7 +8,7 @@ module.exports = {
     ],
     parserOptions: {
         ecmaVersion: 2020, // 让parser按更新的语法来解析
-        sourceType: 'module', // 让paraer按ESM解析
+        sourceType: 'module', // 让parer按ESM解析
         ecmaFeatures: {
             jsx: true, // 支持解析JSX
         },

@@ -9,6 +9,7 @@ import PageDynamicHotspot from './pages/DynamicHotspot';
 import PageLoadXML from './pages/LoadXML';
 import PageMultires from './pages/Multires';
 import PageSwitchScene from './pages/SwitchScene';
+import PageRedux from './pages/Redux';
 
 function App() {
     return (
@@ -33,6 +34,9 @@ function App() {
                         </Route>
                         <Route path="/multires">
                             <PageMultires />
+                        </Route>
+                        <Route path="/redux">
+                            <PageRedux />
                         </Route>
                     </Switch>
                 </FlexItem>
