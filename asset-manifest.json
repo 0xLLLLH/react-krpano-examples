@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/react-krpano-examples/static/css/main.993523f9.chunk.css",
-    "main.js": "/react-krpano-examples/static/js/main.3a556fd2.chunk.js",
-    "main.js.map": "/react-krpano-examples/static/js/main.3a556fd2.chunk.js.map",
+    "main.js": "/react-krpano-examples/static/js/main.dc8a3adf.chunk.js",
+    "main.js.map": "/react-krpano-examples/static/js/main.dc8a3adf.chunk.js.map",
     "runtime-main.js": "/react-krpano-examples/static/js/runtime-main.8a2d2295.js",
     "runtime-main.js.map": "/react-krpano-examples/static/js/runtime-main.8a2d2295.js.map",
-    "static/js/2.938714d2.chunk.js": "/react-krpano-examples/static/js/2.938714d2.chunk.js",
-    "static/js/2.938714d2.chunk.js.map": "/react-krpano-examples/static/js/2.938714d2.chunk.js.map",
+    "static/js/2.c9b7118b.chunk.js": "/react-krpano-examples/static/js/2.c9b7118b.chunk.js",
+    "static/js/2.c9b7118b.chunk.js.map": "/react-krpano-examples/static/js/2.c9b7118b.chunk.js.map",
     "static/js/3.6c429527.chunk.js": "/react-krpano-examples/static/js/3.6c429527.chunk.js",
     "static/js/3.6c429527.chunk.js.map": "/react-krpano-examples/static/js/3.6c429527.chunk.js.map",
     "index.html": "/react-krpano-examples/index.html",
     "static/css/main.993523f9.chunk.css.map": "/react-krpano-examples/static/css/main.993523f9.chunk.css.map",
-    "static/js/2.938714d2.chunk.js.LICENSE.txt": "/react-krpano-examples/static/js/2.938714d2.chunk.js.LICENSE.txt",
-    "static/js/main.3a556fd2.chunk.js.LICENSE.txt": "/react-krpano-examples/static/js/main.3a556fd2.chunk.js.LICENSE.txt"
+    "static/js/2.c9b7118b.chunk.js.LICENSE.txt": "/react-krpano-examples/static/js/2.c9b7118b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a2d2295.js",
-    "static/js/2.938714d2.chunk.js",
+    "static/js/2.c9b7118b.chunk.js",
     "static/css/main.993523f9.chunk.css",
-    "static/js/main.3a556fd2.chunk.js"
+    "static/js/main.dc8a3adf.chunk.js"
   ]
 }
